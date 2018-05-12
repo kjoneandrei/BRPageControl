@@ -30,7 +30,7 @@ brPageControl.contentHorizontalAlignment = .center
 
 ```
 brPageControl.currentPageTintColor = .white
-brPageControl.currentPageBorderColor: UIColor = .black
+brPageControl.currentPageBorderColor = .black
 brPageControl.pageTintColor = .gray
 brPageControl.pageBorderColor = .black
 ```
