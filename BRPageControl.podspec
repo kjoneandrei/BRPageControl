@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   DESC
   s.homepage     = "https://github.com/kjoneandrei/BRPageControl"
   s.license      = { :type => "MIT", :file => "LICENSE" }
-  s.author             = { "anho" => "hogeaandrei@icloud.com" }
+  s.authors             = { "anho" => "hogeaandrei@icloud.com", "anho" => "anho@nodes.dk" }
   s.social_media_url   = ""
   s.ios.deployment_target = "9.0"
 #  s.osx.deployment_target = "10.9"
