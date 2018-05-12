@@ -12,6 +12,12 @@ BRPageControl is a custom UIView which mimics the behaviour of UIPageControl and
 
 - Set custom spacing between controls
 
+## Instalation
+
+**BRPageControl is available to install via CocoaPods**
+
+Just add  `pod 'BRPageControl'` to your podfile and then run `pod install`
+
 ## How to use 
 
 **Create an instance of BRPageControl**
