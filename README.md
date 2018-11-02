@@ -16,7 +16,15 @@ BRPageControl is a custom UIView which mimics the behaviour of UIPageControl and
 
 **BRPageControl is available to install via CocoaPods**
 
+***CocoaPods***
+
 Just add  `pod 'BRPageControl'` to your podfile and then run `pod install`
+
+***Carthage*** 
+
+~~~bash
+gitHub "kjoneandrei/BRPageControl"
+~~~
 
 ## How to use 
 
